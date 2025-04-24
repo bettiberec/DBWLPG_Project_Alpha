@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Betti save\\D\\egyetem\\4.f\u00E9l\u00E9v\\funkcionalis_programozas\\ujra\\DBWLPG_Project_Alpha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8336389-2946-4853-B37B-7EFAF7B4DE51}|DBWLPG_Project_Alpha.fsproj|d:\\betti save\\d\\egyetem\\4.f\u00E9l\u00E9v\\funkcionalis_programozas\\ujra\\dbwlpg_project_alpha\\menu.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{C8336389-2946-4853-B37B-7EFAF7B4DE51}|DBWLPG_Project_Alpha.fsproj|solutionrelative:menu.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8336389-2946-4853-B37B-7EFAF7B4DE51}|DBWLPG_Project_Alpha.fsproj|d:\\betti save\\d\\egyetem\\4.f\u00E9l\u00E9v\\funkcionalis_programozas\\ujra\\dbwlpg_project_alpha\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{C8336389-2946-4853-B37B-7EFAF7B4DE51}|DBWLPG_Project_Alpha.fsproj|solutionrelative:program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8336389-2946-4853-B37B-7EFAF7B4DE51}|DBWLPG_Project_Alpha.fsproj|d:\\betti save\\d\\egyetem\\4.f\u00E9l\u00E9v\\funkcionalis_programozas\\ujra\\dbwlpg_project_alpha\\meal.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{C8336389-2946-4853-B37B-7EFAF7B4DE51}|DBWLPG_Project_Alpha.fsproj|solutionrelative:meal.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8336389-2946-4853-B37B-7EFAF7B4DE51}|DBWLPG_Project_Alpha.fsproj|d:\\betti save\\d\\egyetem\\4.f\u00E9l\u00E9v\\funkcionalis_programozas\\ujra\\dbwlpg_project_alpha\\loader.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{C8336389-2946-4853-B37B-7EFAF7B4DE51}|DBWLPG_Project_Alpha.fsproj|solutionrelative:loader.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8336389-2946-4853-B37B-7EFAF7B4DE51}|DBWLPG_Project_Alpha.fsproj|d:\\betti save\\d\\egyetem\\4.f\u00E9l\u00E9v\\funkcionalis_programozas\\ujra\\dbwlpg_project_alpha\\dbwlpg_project_alpha.fsproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8336389-2946-4853-B37B-7EFAF7B4DE51}|DBWLPG_Project_Alpha.fsproj|solutionrelative:dbwlpg_project_alpha.fsproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8336389-2946-4853-B37B-7EFAF7B4DE51}|DBWLPG_Project_Alpha.fsproj|d:\\betti save\\d\\egyetem\\4.f\u00E9l\u00E9v\\funkcionalis_programozas\\ujra\\dbwlpg_project_alpha\\logic.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{C8336389-2946-4853-B37B-7EFAF7B4DE51}|DBWLPG_Project_Alpha.fsproj|solutionrelative:logic.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8336389-2946-4853-B37B-7EFAF7B4DE51}|DBWLPG_Project_Alpha.fsproj|d:\\betti save\\d\\egyetem\\4.f\u00E9l\u00E9v\\funkcionalis_programozas\\ujra\\dbwlpg_project_alpha\\ui.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{C8336389-2946-4853-B37B-7EFAF7B4DE51}|DBWLPG_Project_Alpha.fsproj|solutionrelative:ui.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.fs",
+              "DocumentMoniker": "D:\\Betti save\\D\\egyetem\\4.f\u00E9l\u00E9v\\funkcionalis_programozas\\ujra\\DBWLPG_Project_Alpha\\Menu.fs",
+              "RelativeDocumentMoniker": "Menu.fs",
+              "ToolTip": "D:\\Betti save\\D\\egyetem\\4.f\u00E9l\u00E9v\\funkcionalis_programozas\\ujra\\DBWLPG_Project_Alpha\\Menu.fs",
+              "RelativeToolTip": "Menu.fs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-24T19:08:00.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UI.fs",
+              "DocumentMoniker": "D:\\Betti save\\D\\egyetem\\4.f\u00E9l\u00E9v\\funkcionalis_programozas\\ujra\\DBWLPG_Project_Alpha\\UI.fs",
+              "RelativeDocumentMoniker": "UI.fs",
+              "ToolTip": "D:\\Betti save\\D\\egyetem\\4.f\u00E9l\u00E9v\\funkcionalis_programozas\\ujra\\DBWLPG_Project_Alpha\\UI.fs",
+              "RelativeToolTip": "UI.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-24T19:07:42.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logic.fs",
+              "DocumentMoniker": "D:\\Betti save\\D\\egyetem\\4.f\u00E9l\u00E9v\\funkcionalis_programozas\\ujra\\DBWLPG_Project_Alpha\\Logic.fs",
+              "RelativeDocumentMoniker": "Logic.fs",
+              "ToolTip": "D:\\Betti save\\D\\egyetem\\4.f\u00E9l\u00E9v\\funkcionalis_programozas\\ujra\\DBWLPG_Project_Alpha\\Logic.fs",
+              "RelativeToolTip": "Logic.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-24T19:06:21.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBWLPG_Project_Alpha",
+              "DocumentMoniker": "D:\\Betti save\\D\\egyetem\\4.f\u00E9l\u00E9v\\funkcionalis_programozas\\ujra\\DBWLPG_Project_Alpha\\DBWLPG_Project_Alpha.fsproj",
+              "RelativeDocumentMoniker": "DBWLPG_Project_Alpha.fsproj",
+              "ToolTip": "D:\\Betti save\\D\\egyetem\\4.f\u00E9l\u00E9v\\funkcionalis_programozas\\ujra\\DBWLPG_Project_Alpha\\DBWLPG_Project_Alpha.fsproj",
+              "RelativeToolTip": "DBWLPG_Project_Alpha.fsproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001351|",
+              "WhenOpened": "2025-04-24T19:05:06.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Loader.fs",
+              "DocumentMoniker": "D:\\Betti save\\D\\egyetem\\4.f\u00E9l\u00E9v\\funkcionalis_programozas\\ujra\\DBWLPG_Project_Alpha\\Loader.fs",
+              "RelativeDocumentMoniker": "Loader.fs",
+              "ToolTip": "D:\\Betti save\\D\\egyetem\\4.f\u00E9l\u00E9v\\funkcionalis_programozas\\ujra\\DBWLPG_Project_Alpha\\Loader.fs",
+              "RelativeToolTip": "Loader.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-24T19:05:49.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Meal.fs",
+              "DocumentMoniker": "D:\\Betti save\\D\\egyetem\\4.f\u00E9l\u00E9v\\funkcionalis_programozas\\ujra\\DBWLPG_Project_Alpha\\Meal.fs",
+              "RelativeDocumentMoniker": "Meal.fs",
+              "ToolTip": "D:\\Betti save\\D\\egyetem\\4.f\u00E9l\u00E9v\\funkcionalis_programozas\\ujra\\DBWLPG_Project_Alpha\\Meal.fs",
+              "RelativeToolTip": "Meal.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-24T19:05:31.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.fs",
+              "DocumentMoniker": "D:\\Betti save\\D\\egyetem\\4.f\u00E9l\u00E9v\\funkcionalis_programozas\\ujra\\DBWLPG_Project_Alpha\\Program.fs",
+              "RelativeDocumentMoniker": "Program.fs",
+              "ToolTip": "D:\\Betti save\\D\\egyetem\\4.f\u00E9l\u00E9v\\funkcionalis_programozas\\ujra\\DBWLPG_Project_Alpha\\Program.fs",
+              "RelativeToolTip": "Program.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-24T19:04:24.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

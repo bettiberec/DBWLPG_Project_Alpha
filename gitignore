@@ -1,0 +1,35 @@
+
+# Ignore build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# VS Code
+.vscode/
+
+# Build artifacts
+*.dll
+*.exe
+*.pdb
+
+# F# interactive
+fsi.exe
+*.fsx.dll
+
+# Logs
+*.log
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Rider
+.idea/
+
+# Backup files
+*~

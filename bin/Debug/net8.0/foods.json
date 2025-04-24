@@ -1,0 +1,122 @@
+[
+  {
+    "Name": "Pancakes",
+    "Ingredients": ["flour", "milk", "eggs", "butter"],
+    "MealType": "breakfast",
+    "PrepTime": 15
+  },
+  {
+    "Name": "Omelette",
+    "Ingredients": ["eggs", "onion", "cheese", "butter"],
+    "MealType": "breakfast",
+    "PrepTime": 10
+  },
+  {
+    "Name": "Avocado Toast",
+    "Ingredients": ["bread", "avocado", "lemon", "salt"],
+    "MealType": "breakfast",
+    "PrepTime": 5
+  },
+  {
+    "Name": "Grilled Cheese Sandwich",
+    "Ingredients": ["bread", "cheese", "butter"],
+    "MealType": "lunch",
+    "PrepTime": 8
+  },
+  {
+    "Name": "Chicken Salad",
+    "Ingredients": ["chicken", "lettuce", "tomato", "olive oil"],
+    "MealType": "lunch",
+    "PrepTime": 12
+  },
+  {
+    "Name": "Vegetable Stir Fry",
+    "Ingredients": ["carrot", "broccoli", "soy sauce", "rice"],
+    "MealType": "lunch",
+    "PrepTime": 20
+  },
+  {
+    "Name": "Spaghetti Bolognese",
+    "Ingredients": ["spaghetti", "beef", "tomato", "onion"],
+    "MealType": "dinner",
+    "PrepTime": 25
+  },
+  {
+    "Name": "Mac and Cheese",
+    "Ingredients": ["macaroni", "cheese", "milk", "butter"],
+    "MealType": "dinner",
+    "PrepTime": 20
+  },
+  {
+    "Name": "Tomato Soup",
+    "Ingredients": ["tomato", "cream", "onion", "garlic"],
+    "MealType": "dinner",
+    "PrepTime": 15
+  },
+  {
+    "Name": "Tuna Wrap",
+    "Ingredients": ["tortilla", "tuna", "lettuce", "mayonnaise"],
+    "MealType": "lunch",
+    "PrepTime": 10
+  },
+  {
+    "Name": "Fruit Smoothie",
+    "Ingredients": ["banana", "strawberry", "yogurt", "honey"],
+    "MealType": "breakfast",
+    "PrepTime": 5
+  },
+  {
+    "Name": "Quesadilla",
+    "Ingredients": ["tortilla", "cheese", "chicken"],
+    "MealType": "dinner",
+    "PrepTime": 10
+  },
+  {
+    "Name": "Fried Rice",
+    "Ingredients": ["rice", "egg", "peas", "soy sauce"],
+    "MealType": "lunch",
+    "PrepTime": 15
+  },
+  {
+    "Name": "Greek Salad",
+    "Ingredients": ["feta", "cucumber", "tomato", "olive oil"],
+    "MealType": "lunch",
+    "PrepTime": 10
+  },
+  {
+    "Name": "Peanut Butter Sandwich",
+    "Ingredients": ["bread", "peanut butter"],
+    "MealType": "breakfast",
+    "PrepTime": 3
+  },
+  {
+    "Name": "Chili Con Carne",
+    "Ingredients": ["beef", "beans", "tomato", "onion"],
+    "MealType": "dinner",
+    "PrepTime": 30
+  },
+  {
+    "Name": "Caesar Salad",
+    "Ingredients": ["lettuce", "chicken", "parmesan", "croutons"],
+    "MealType": "lunch",
+    "PrepTime": 15
+  },
+  {
+    "Name": "Egg Fried Toast",
+    "Ingredients": ["bread", "egg", "butter", "salt"],
+    "MealType": "breakfast",
+    "PrepTime": 10
+  },
+  {
+    "Name": "Beef Tacos",
+    "Ingredients": ["tortilla", "beef", "lettuce", "cheese"],
+    "MealType": "dinner",
+    "PrepTime": 20
+  },
+  {
+    "Name": "Minestrone Soup",
+    "Ingredients": ["carrot", "onion", "tomato", "pasta"],
+    "MealType": "dinner",
+    "PrepTime": 25
+  }
+]
