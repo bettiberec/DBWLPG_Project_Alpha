@@ -21,7 +21,7 @@ Meal Master is a command-line meal planning application built in **F#**. It help
 2. Clone the repo:
    ```bash
    git clone https://github.com/bettiberec/DBWLPG_Project_Alpha
-   cd MealMaster
+   cd DBWLPG_Project_Alpha
    ```
 3. Make sure you have the foods.json file placed in:
    ```bash
